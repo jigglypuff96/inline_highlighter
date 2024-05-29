@@ -1,0 +1,14 @@
+.highlight-overlay {
+  color: white;
+  background-color: transparent;
+  pointer-events: none;
+  white-space: pre-wrap;
+  overflow: hidden;
+  box-sizing: border-box;
+}
+
+.highlight {
+  background-color: yellow;
+  color: black;
+  font-weight: bold;
+}
